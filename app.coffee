@@ -1,4 +1,4 @@
-retina = 2
+retina = 1
 
 bg = new Layer width: 320*retina, height: 568*retina, x: 0, y: 0, backgroundColor: "rgba(241,241,241,1.00)"
 shape = new Layer width: 115*retina, height: 115*retina, x: 103*retina, y: 113*retina, backgroundColor: "rgba(255,193,7,1.00)"
